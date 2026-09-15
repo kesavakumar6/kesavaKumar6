@@ -200,7 +200,7 @@ I want to understand **why it works**.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=kesavakumar6&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -210,7 +210,7 @@ I want to understand **why it works**.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/kesavakumar6/kesavakumar6/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
