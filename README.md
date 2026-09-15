@@ -188,7 +188,7 @@ I want to understand **why it works**.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kesavakumar6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kesavakumar6&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesavakumar6&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -210,10 +210,19 @@ I want to understand **why it works**.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kesavakumar6/kesavakumar6/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/kesavakumar6/kesavakumar6/output/github-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/kesavakumar6/kesavakumar6/output/github-snake.svg">
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/kesavakumar6/kesavakumar6/output/github-snake.svg">
+</picture>
 
 </div>
-
 ---
 
 ## 🎯 2026 Goals
