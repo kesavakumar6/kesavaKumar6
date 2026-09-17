@@ -182,17 +182,6 @@ I don't just want the code to work.
 
 I want to understand **why it works**.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kesavakumar6&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesavakumar6&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
